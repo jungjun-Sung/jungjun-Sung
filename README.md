@@ -20,7 +20,6 @@ Self Starter & Quick Learner, Passionate about Coding & Technology as well as sh
 - 📩 My E-mail [![Email](https://img.shields.io/badge/Gmail-00AC47?style=flat-square&logo=gmail&logoColor=white)](jungzkxm@gmail.com)
 - 📔 My Tech-blog [![blog](https://img.shields.io/badge/Techblog-00AC47?style=flat-square&logo=Blogger&logoColor=white)](jungzkxm@gmail.com)
 
-- 🌟 Microsoft Learn Student Ambassador
-- ⚡️ Auth0 Ambassador
-- 👨🏻‍💻 Indie App Developer
-- 🔭 Open Source Enthusiastic
+## MY GIT STATS
+<img src="https://github-readme-stats.vercel.app/api?username=jungjun-Sung&&show_icons=true&count_private=true&theme=radical"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=jungjun-Sung&theme=radical"/>|
+|---|---|
