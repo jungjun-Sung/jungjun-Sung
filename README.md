@@ -2,7 +2,7 @@
 
 ### Hi there 👋 👨🏻‍💻
 
-🌤 Good day! I m jungjun Sung who is interested in frontend web developer. 👨🏻‍💻<br>
+🌤 Good day! I m jungjun Sung, a growing frontend web developer. 🌱🌱👨🏻‍💻<br>
 📮 If you want to contact me, leave me a message 
 
 [![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)](github.com/Joowon0220/TODO-List)
