@@ -1,7 +1,8 @@
 <img align="center" src="https://user-images.githubusercontent.com/83643284/124357785-4226bd80-dc58-11eb-891e-4d9079fa1abc.jpg" />
 
 ### Hi there 👋 👨🏻‍💻
-🌤 Good day! I m jungjun Sung who is interested in frontend web developer. 👨🏻‍💻
+
+🌤 Good day! I m jungjun Sung who is interested in frontend web developer. 👨🏻‍💻<br>
 📮 If you want to contact me, leave me a message 
 
 [![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)](github.com/Joowon0220/TODO-List)
@@ -11,15 +12,16 @@
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=jungjun-Sung)
 
 ## ABOUT ME
-Self Starter & Quick Learner, Passionate about Coding & Technology as well as shipping my ideas into apps, Encouraging others to code through Coding Blogs & my YouTube Channel.
 
-- 🖥 I m a frontend web developer
+- 👨🏻‍💻 I m a frontend web developer
 - 🇰🇷 I live in seoul of Republic of Korea
 
- ## How to reach me ❔
+ ## HOW TO REACH ME
+ 
 - 📩 My E-mail [![Email](https://img.shields.io/badge/Gmail-00AC47?style=flat-square&logo=gmail&logoColor=white)](jungzkxm@gmail.com)
 - 📔 My Tech-blog [![blog](https://img.shields.io/badge/Techblog-00AC47?style=flat-square&logo=Blogger&logoColor=white)](jungzkxm@gmail.com)
 
 ## MY GIT STATS
+
 <img src="https://github-readme-stats.vercel.app/api?username=jungjun-Sung&&show_icons=true&count_private=true&theme=radical"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=jungjun-Sung&theme=radical"/>|
 |---|---|
